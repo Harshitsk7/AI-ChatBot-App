@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028392348656",
+    "project_id": "palm-96d37",
+    "storage_bucket": "palm-96d37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028392348656:android:f3233c3cf89bb7b53ccb35",
+        "android_client_info": {
+          "package_name": "com.example.check"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028392348656-qa94phv37uqohc5dbq1q22k460bjtum2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3p41Y7b1MYNCB16Zv7amJrDloKQMi2J4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028392348656-qa94phv37uqohc5dbq1q22k460bjtum2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

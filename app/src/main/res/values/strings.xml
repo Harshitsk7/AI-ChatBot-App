@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">QNA</string>
+    <string name="type_your_message_here">Type your message here</string>
+    <string name="send">Send</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="Signup">SignUp</string>
+</resources>
