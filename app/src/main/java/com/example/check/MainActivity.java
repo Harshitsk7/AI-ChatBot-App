@@ -30,7 +30,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String PALM_API_KEY = "AIzaSyBgrJ5UJYb-fdamS2pH5A_K2TaP6PemUQU";
+    private static final String PALM_API_KEY = "YOUR-API-KEY";
 
     private DiscussServiceClient client;
     private List<Message> conversation;
